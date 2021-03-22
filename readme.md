@@ -17,10 +17,9 @@ A bit overview, it uses newsapi.org API to get news and get JSON data back. Then
 
 
 #### Demo
-- ##### Home
-<img src="app.gif" width="40%">
+#### UX DESIGN
 
-- ##### Widget
-<img src="widget.gif" width="40%">
+<img src="https://raw.githubusercontent.com/cvbutani/NewsApp/master/UXDesign/ux1.png" width="200"/> <img src="https://raw.githubusercontent.com/cvbutani/NewsApp/master/UXDesign/ux2.png" width="200"/> <img src="https://raw.githubusercontent.com/cvbutani/NewsApp/master/UXDesign/ux3.png" width="200"/>
 
+<img src="https://raw.githubusercontent.com/cvbutani/NewsApp/master/UXDesign/ux4.png" width="200"/> <img src="https://raw.githubusercontent.com/cvbutani/NewsApp/master/UXDesign/ux5.png" width="200"/> <img src="https://raw.githubusercontent.com/cvbutani/NewsApp/master/UXDesign/ux6.png" width="200"/>
 
